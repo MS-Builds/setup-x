@@ -8,6 +8,8 @@
 
 `setup-x` is a premium, command-palette-style web application designed to help developers instantly configure and generate production-ready setup commands for their next project.
 
+#### Live Demo : [https://setup-x.vercel.app](https://setup-x.vercel.app)
+
 ## ✨ Features
 
 - **Instant Search**: Quickly find frameworks, databases, and tools using a high-performance fuzzy search (Fuse.js).
